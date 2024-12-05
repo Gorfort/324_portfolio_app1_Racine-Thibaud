@@ -16,16 +16,12 @@ les défis rencontrés, et les solutions apportées pour mener à bien ces réal
   - Application 1 : Add-on Firefox – Todo App
   - Application 2 : [Nom et domaine de l'application à choix]
 
----
-
 ## 2. Analyse et Planification Initiale
 
 - Analyse des besoins pour chaque application
 - Schéma fonctionnel et architecture
 - Liste des fonctionnalités principales
 - Chronogramme prévisionnel
-
----
 
 ## 3. Configuration de l’Environnement de Développement
 
@@ -43,8 +39,6 @@ les défis rencontrés, et les solutions apportées pour mener à bien ces réal
 
 - `npm run zip:firefox`
 
----
-
 ### Déployer l’add-on Firefox
 
 1. Créer un compte Firefox
@@ -53,8 +47,6 @@ les défis rencontrés, et les solutions apportées pour mener à bien ces réal
 4. Acceptez les accords, ajoutez un nom et continuez
 5. Ajoutez le fichier zip de Firefox qui se trouve dans `.output` de l’app, choisissez le fichier `firefox.zip`
 6. Il faut ensuite donner le code source, importer le fichier `source.zip` qui se trouve aussi dans le dossier `.output`
-
----
 
 ### Outils Utilisés :
 
