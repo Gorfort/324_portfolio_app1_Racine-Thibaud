@@ -1,0 +1,11 @@
+yohan.cardis@eduvaud.ch;ab28685a-18fe-456d-8e3e-be886ac5c78e;https://6af5b1f7e68978eac6d053f6350dfce6b85878da.extensions.allizom.org/
+dario.chasi@eduvaud.ch;e1dff6e0-834e-4c7e-93ca-85c15130cab0;https://736e377e63daf30bd7f3826002d4869770738382.extensions.allizom.org/
+timothy.jotterand@eduvaud.ch;a64a78ec-23de-472b-92de-aa8da0070324;https://fb5fcf5f1a9965b4d8f25531ab16af2f45a2ad84.extensions.allizom.org/
+alessio.lopardo@eduvaud.ch;840387ca-aff8-4c85-bb53-f74001f375c4;https://3d4ab9be8af9adefb5dcfdaec7b4d125294dd7ec.extensions.allizom.org/
+luke.moia@eduvaud.ch;c6d6d04f-1717-4b87-9ceb-a5a3c249d4ec;https://610f3aeec20bc06c1d04c3845bcc99209a79f575.extensions.allizom.org/
+cyril.napoleone@eduvaud.ch;2cfbb0a4-5915-41aa-9e43-ab6cc02e9c7f;https://6b67b7fbafdb4cf6cc7fbdf21b5a56cf4448683c.extensions.allizom.org/
+thibaud.racine@eduvaud.ch;e0ee3647-ebd3-473b-8e46-5ce85df2733b;https://a1c7c7d2f066ec5f58179af115a9a85d1ef5c5a3.extensions.allizom.org/
+william.trelles1@eduvaud.ch;47176d92-f9c3-4cb8-ab6f-eef99bdbd667;https://442bffdd864d5ea305e42464ff7efbcb8ab2bbab.extensions.allizom.org/
+quentin.metroz@eduvaud.ch;8c801a33-10dc-4898-91ff-405ccfe5e4c3;https://9264c3d7033e4d4fe1041dfe67e109019f2d07c8.extensions.allizom.org/
+mateja.velickovic@eduvaud.ch;dbad8711-88e8-47bf-b4e1-c5eac9331d42;https://046ee05064203755e087661925c6d5ee77703794.extensions.allizom.org/
+nima.zarrabi@eduvaud.ch;f2dbc59f-f58c-4313-8af2-4381c4a70352;https://6da85f91e43f1c502484e9294143402f56ef164e.extensions.allizom.org/
