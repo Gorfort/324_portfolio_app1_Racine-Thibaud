@@ -1,9 +1,9 @@
-# 324_portfolio_app1_Racine-Thibaud
-# Portfolio de Développement
+# Module 324 Portfolio Racine Thibaud
 
 ## 1. Introduction
 
 ### Objectif du projet :
+
 Ce projet a pour objectif de documenter, à travers un portfolio détaillé,
 l’ensemble des étapes du cycle de vie de développement logiciel : planification
 (Plan), développement (Dev), génération (Build), tests (Tests) et déploiement (Deploy).
@@ -12,16 +12,30 @@ mettant en œuvre des pratiques modernes de développement, d'intégration conti
 et de livraison continue (CI/CD). Ce travail met en avant les choix techniques,
 les défis rencontrés, et les solutions apportées pour mener à bien ces réalisations.
 
-- Présentation des deux applications
-  - Application 1 : Add-on Firefox – Todo App
-  - Application 2 : [Nom et domaine de l'application à choix]
+### Présentation des deux applications
 
-## 2. Analyse et Planification Initiale
+#### Application 1 : Add-on Firefox – Todo App
 
-- Analyse des besoins pour chaque application
-- Schéma fonctionnel et architecture
-- Liste des fonctionnalités principales
-- Chronogramme prévisionnel
+#### Application 2 : [Nom et domaine de l'application à choix]
+
+## 2. Analyse et Planification Initiale Add-on FireFox
+
+- Journal des commits (datés)
+- Développement et tests
+
+### Planification :
+
+Utilisation de GitHub Project avec une planification de type Kanban. <br>
+
+#### Les étapes sont :
+
+- Backlog : Objet qui n'a pas été commencé.
+- Ready : Objet prêt à être commencé.
+- In Progress : Objet en cours de développement.
+- in Review : Objet en cours d'analyse.
+- Done : Objet Terminé.
+
+Jobs / Résultats finaux et conclusion
 
 ## 3. Configuration de l’Environnement de Développement
 
