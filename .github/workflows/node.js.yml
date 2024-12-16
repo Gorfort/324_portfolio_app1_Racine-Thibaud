@@ -32,7 +32,7 @@ jobs:
       - run: npm ci
       - run: npm run build --if-present
       - run: npm test
-      - run: npm run zip
+      - run: npm run zip:firefox
       - uses: actions/upload-artifact@v4
         with:
           name: addon-todo-app
