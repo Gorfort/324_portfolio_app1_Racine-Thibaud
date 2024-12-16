@@ -16,11 +16,14 @@
     "submit:init": "wxt submit init",
     "submit:firefox:dry-run": "wxt submit --dry-run --firefox-zip .output/${npm_package_name}-${npm_package_version}-firefox.zip --firefox-sources-zip .output/$npm_package_name-$npm_package_version-sources.zip",
     "submit:firefox": "wxt submit --firefox-zip .output/${npm_package_name}-${npm_package_version}-firefox.zip --firefox-sources-zip .output/ $npm_package_name-$npm_package_version-sources.zip",
-    "submit:help": "wxt submit --help"
+    "submit:help": "wxt submit --help",
+    "test": "vitest"
   },
   "devDependencies": {
     "@types/chrome": "^0.0.280",
+    "ts-node": "^10.9.2",
     "typescript": "^5.6.3",
+    "vitest": "^2.1.8",
     "wxt": "^0.19.13"
   },
   "author": "Mathieu Meylan"
