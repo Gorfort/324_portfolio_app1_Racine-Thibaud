@@ -19,7 +19,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./App/addon-todo-app
+        working-directory: App/addon-todo-app/
 
     steps:
       - uses: actions/checkout@v4
