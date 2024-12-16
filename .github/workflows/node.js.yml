@@ -32,3 +32,8 @@ jobs:
       - run: npm ci
       - run: npm run build --if-present
       - run: npm test
+      - uses: actions/upload-artifact@v4
+        with:
+          name: addon-todo-app
+          path: ./App/addon-todo-app/.output/addon-todo-app-0.0.4-firefox.zip
+          retention-days: 5
